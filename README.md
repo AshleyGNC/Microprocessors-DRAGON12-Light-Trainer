@@ -1,8 +1,8 @@
 # Microprocessors-Assembly
 Technology: DRAGON12-Light-Trainer
 IDE: MGTEK MiniIDE
-Project Description: Design a complete program that allows for user/hardware interaction. 
-Project Title: Singles Ping-Pong Game
+Project Description: Design a complete program that allows for user/hardware interaction (e.g. a game, thermometer,  watch/counter).
+My Project Title: Singles Ping-Pong Game
 
 Project Overview
 Using the LED lights in the dragon board, a light will bounce within each boundary, and the player 
@@ -16,4 +16,4 @@ round. Scores are the hits on each wall counted throughout the round, the maximu
 level but the player can keep playing until he/she loses, and a score greater than 5 will not displayed.
 The program prevents cheating.
 
-Further Game specifications and constraints are found in the pdf file.
+Further game specifications and constraints are found in the pdf file.
