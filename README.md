@@ -1,7 +1,8 @@
-# Microprocessors-DRAGON12-Light-Trainer
-Project: Design a program that allows for user/hardware interaction. 
-
-Singles Ping-Pong Game
+# Microprocessors-Assembly
+Technology: DRAGON12-Light-Trainer
+IDE: MGTEK MiniIDE
+Project Description: Design a complete program that allows for user/hardware interaction. 
+Project Title: Singles Ping-Pong Game
 
 Project Overview
 Using the LED lights in the dragon board, a light will bounce within each boundary, and the player 
